@@ -20,7 +20,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Cs472" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="ServiceViewManager">
@@ -46,6 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584381575887</updated>
       <workItem from="1584381577206" duration="36000" />
+      <workItem from="1584382424872" duration="252000" />
     </task>
     <servers />
   </component>
@@ -53,10 +54,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1584382581579">
+    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1584382675873">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1584382581579" />
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1584382675873" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1584381596035">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
